@@ -1,0 +1,9 @@
+# Agent run outputs can be large MusicXML dumps
+agent-lab/runs/*
+!agent-lab/runs/.gitkeep
+
+agent-lab/out/
+!agent-lab/out/.gitkeep
+
+# Copyrighted 1991 ebook. It stays on the local machine and is not published.
+downloads/berlioz-strauss-treatise-on-instrumentation-1991.mobi

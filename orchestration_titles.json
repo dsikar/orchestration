@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Treatise on Instrumentation",
+    "subtitle": null,
+    "authors": [
+      "Hector Berlioz",
+      "Richard Strauss"
+    ],
+    "year": "1844",
+    "editions": [
+      "1855 revised French edition with Berlioz's chapter on conducting",
+      "1905 Richard Strauss-expanded German edition",
+      "2013 Dover digital reissue"
+    ],
+    "publisher": "Dover Publications",
+    "isbn": "9780486319728",
+    "description": "Berlioz's treatise is one of the foundational texts of orchestration, notable for combining technical information with a strong aesthetic sense of instrumental color. Strauss's expansion helped carry the book from nineteenth-century practice into the modern orchestral era.",
+    "url": "https://store.doverpublications.com/products/9780486319728"
+  },
+  {
+    "title": "Principles of Orchestration",
+    "subtitle": "With Musical Examples Drawn from His Own Works",
+    "authors": [
+      "Nikolay Rimsky-Korsakov"
+    ],
+    "year": "1912",
+    "editions": [
+      "1923 Edition Russe de Musique English edition",
+      "1964 Dover single-volume corrected republication",
+      "2013 Dover digital reissue"
+    ],
+    "publisher": "Dover Publications",
+    "isbn": "9780486316970",
+    "description": "One of the few major orchestration manuals written by a composer celebrated above all for orchestral color, this book remains central for its treatment of resonance, timbre, and orchestral combination. Its many examples from Rimsky-Korsakov's own scores make it especially practical for study.",
+    "url": "https://store.doverpublications.com/products/9780486212661"
+  },
+  {
+    "title": "The Technique of the Modern Orchestra",
+    "subtitle": "A Manual of Practical Instrumentation",
+    "authors": [
+      "Charles-Marie Widor"
+    ],
+    "year": "1904",
+    "editions": [
+      "1904 French original: Technique de l'orchestre moderne",
+      "1906 English translation",
+      "2018 scholarly reprint"
+    ],
+    "publisher": "Creative Media Partners, LLC",
+    "isbn": "9780341913832",
+    "description": "Widor's manual serves as an early twentieth-century supplement to Berlioz, updating practical instrumentation for a later orchestral world. It is especially useful as a bridge between Romantic treatise writing and more modern technical handbooks.",
+    "url": "https://openlibrary.org/books/OL6968270M/The_technique_of_the_modern_orchestra"
+  },
+  {
+    "title": "Orchestration",
+    "subtitle": null,
+    "authors": [
+      "Walter Piston"
+    ],
+    "year": "1955",
+    "editions": [
+      "1955 first edition",
+      "1978 Gollancz reprint",
+      "Current Norton paperback reissue"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "isbn": "9780393097405",
+    "description": "Piston's text became a twentieth-century standard because of its clarity, compact organization, and consistent reliance on score-based analysis. It balances instrument-specific facts with broader issues such as melody, chords, counterpoint, and practical orchestral problem-solving.",
+    "url": "https://wwnorton.co.uk/books/9780393097405-orchestration"
+  },
+  {
+    "title": "Orchestration",
+    "subtitle": null,
+    "authors": [
+      "Cecil Forsyth"
+    ],
+    "year": "1914",
+    "editions": [
+      "1914 first edition",
+      "1935 second edition revised",
+      "2013 Dover digital reissue"
+    ],
+    "publisher": "Dover Publications",
+    "isbn": "9780486319216",
+    "description": "Forsyth's book is prized for its unusually detailed, instrument-by-instrument coverage and for preserving pre-World War I orchestral knowledge in depth. It is also valuable historically because it discusses many obsolete, rare, or transitional instruments that later textbooks omit.",
+    "url": "https://openlibrary.org/books/OL3487641M/Orchestration"
+  },
+  {
+    "title": "The Technique of Orchestration",
+    "subtitle": null,
+    "authors": [
+      "Kent Kennan",
+      "Donald Grantham"
+    ],
+    "year": "1952",
+    "editions": [
+      "1997 fifth edition",
+      "2002 sixth edition",
+      "2024 seventh edition"
+    ],
+    "publisher": "Routledge",
+    "isbn": "9780367655594",
+    "description": "Kennan and Grantham's text is a long-running classroom standard focused on practical fundamentals, from instrumental writing to scoring, transcription, and preparation of score and parts. Its reputation rests on being concise, direct, and highly teachable.",
+    "url": "https://www.routledge.com/The-Technique-of-Orchestration/Grantham-Kennan/p/book/9780367655594"
+  },
+  {
+    "title": "The Study of Orchestration",
+    "subtitle": "With Audio and Video Recordings",
+    "authors": [
+      "Samuel Adler"
+    ],
+    "year": "1982",
+    "editions": [
+      "1982 first edition",
+      "2002 third edition",
+      "2016 fourth edition"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "isbn": "9780393283730",
+    "description": "Adler's book is one of the most comprehensive modern orchestration texts, pairing instrumental description with literature-based examples and a composer's perspective on how orchestration works in practice. The later editions strengthen it further with integrated listening resources.",
+    "url": "https://wwnorton.co.uk/books/9780393283730-the-study-of-orchestration-0675df45-d3d3-415e-9e42-9c331b5c46c7"
+  },
+  {
+    "title": "Instrumentation and Orchestration",
+    "subtitle": null,
+    "authors": [
+      "Alfred Blatter"
+    ],
+    "year": "1980",
+    "editions": [
+      "1980 first edition",
+      "1985 Schirmer reprint",
+      "1997 second edition"
+    ],
+    "publisher": "Schirmer Books",
+    "isbn": "9780534251871",
+    "description": "Blatter's survey is respected for combining textbook breadth with reference-book utility, covering instruments, score preparation, ensemble scoring, transcription, and arrangement. It is especially useful for students who want a broad working manual rather than a narrowly historical treatise.",
+    "url": "https://openlibrary.org/books/OL995023M/Instrumentation_and_orchestration"
+  },
+  {
+    "title": "Orchestration",
+    "subtitle": null,
+    "authors": [
+      "Alan Belkin"
+    ],
+    "year": "2001",
+    "editions": [
+      "2001 original online text",
+      "2008 revised PDF copyright notice",
+      "2024 website revision timestamp"
+    ],
+    "publisher": "Alan Belkin Music",
+    "isbn": null,
+    "description": "Belkin's free online resource complements traditional manuals by focusing less on exhaustive instrument cataloging and more on orchestration as an aspect of musical form, texture, and listening. It is widely recommended as an accessible modern companion to larger printed textbooks.",
+    "url": "https://alanbelkinmusic.com/orchestration/"
+  },
+  {
+    "title": "The History of Orchestration",
+    "subtitle": null,
+    "authors": [
+      "Adam Carse"
+    ],
+    "year": "1925",
+    "editions": [
+      "1925 first edition",
+      "1964 Dover corrected republication",
+      "2012 Dover reissue"
+    ],
+    "publisher": "Dover Publications",
+    "isbn": "9780486212586",
+    "description": "Carse's book remains one of the classic historical surveys of how the orchestra developed from the seventeenth century into the modern period. It is especially useful for understanding changes in instrumental families, balance, color, and orchestral thinking across styles.",
+    "url": "https://store.doverpublications.com/products/9780486212586"
+  },
+  {
+    "title": "A History of Music in Western Culture",
+    "subtitle": null,
+    "authors": [
+      "Mark Evan Bonds"
+    ],
+    "year": "2003",
+    "editions": [
+      "2003 first edition",
+      "2006 second edition",
+      "2013 fourth edition"
+    ],
+    "publisher": "Pearson",
+    "isbn": "9780205867226",
+    "description": "Bonds's book is broader than a technique manual, but it is valuable for placing orchestration within the larger history of repertoire, style, and listening. It is particularly helpful for readers who want orchestral writing understood in its cultural and historical context.",
+    "url": "https://campusstore.miamioh.edu/history-music-western-culture-4th-bonds/bk/9780205867226"
+  }
+]
