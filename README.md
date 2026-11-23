@@ -41,6 +41,7 @@ Belkin is the short book to read through. Rimsky-Korsakov is the book to write f
 
 - [#1](https://github.com/dsikar/orchestration/issues/1) — first book, Belkin. A piano sketch of the first 16 bars of "We've Only Just Begun", from a chord chart. This is the harmonic base for the Belkin exercises, not yet an orchestration of a passage from the book.
 - [#2](https://github.com/dsikar/orchestration/issues/2) — Belkin, fat and thin sound. The issue #1 sketch: no invented tune in the intro, vocal melody from bar 5, unison doubling only in bars 11–12.
+- [#5](https://github.com/dsikar/orchestration/issues/5) — Belkin, successive balance. The unison score stays thick in bars 11–12; bars 13–14 ease down on a held A instead of dropping straight to one violin.
 
 ## Catalogue of titles
 
