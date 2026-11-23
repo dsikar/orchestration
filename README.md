@@ -44,6 +44,7 @@ Belkin is the short book to read through. Rimsky-Korsakov is the book to write f
 - [#5](https://github.com/dsikar/orchestration/issues/5) — Belkin, successive balance. The unison score stays thick in bars 11–12; bars 13–14 ease down on a held A instead of dropping straight to one violin.
 - [#7](https://github.com/dsikar/orchestration/issues/7) — Belkin, octave doubling. The successive-balance score, with violin 2 an octave above violin 1 in bars 11–12 only.
 - [#9](https://github.com/dsikar/orchestration/issues/9) — Belkin, heterophony. The octave-doubling score, with violin 2 playing a simpler form of the same contour in bars 11–12 only.
+- [#11](https://github.com/dsikar/orchestration/issues/11) — Belkin, repeated notes. The heterophony score, with the viola repeating its chord tones in quarters under the solo violin.
 
 ## Catalogue of titles
 
