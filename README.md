@@ -37,9 +37,9 @@ Belkin is the short book to read through. Rimsky-Korsakov is the book to write f
 
 `agent-lab/` is a separate exercise lab for mechanical MusicXML edits. New orchestration implementations go under `implementations/`, not there.
 
-## Tickets
+## Issues
 
-- [`tickets/01-belkin-weve-only-just-begun.md`](tickets/01-belkin-weve-only-just-begun.md) — first book, Belkin. A piano sketch of the first 16 bars of "We've Only Just Begun", from a chord chart. This is the harmonic base for the Belkin exercises, not yet an orchestration of a passage from the book.
+- [#1](https://github.com/dsikar/orchestration/issues/1) — first book, Belkin. A piano sketch of the first 16 bars of "We've Only Just Begun", from a chord chart. This is the harmonic base for the Belkin exercises, not yet an orchestration of a passage from the book.
 
 ## Catalogue of titles
 
