@@ -45,6 +45,12 @@ Belkin is the short book to read through. Rimsky-Korsakov is the book to write f
 - [#7](https://github.com/dsikar/orchestration/issues/7) — Belkin, octave doubling. The successive-balance score, with violin 2 an octave above violin 1 in bars 11–12 only.
 - [#9](https://github.com/dsikar/orchestration/issues/9) — Belkin, heterophony. The octave-doubling score, with violin 2 playing a simpler form of the same contour in bars 11–12 only.
 - [#11](https://github.com/dsikar/orchestration/issues/11) — Belkin, repeated notes. The heterophony score, with the viola repeating its chord tones in quarters under the solo violin.
+- [#12](https://github.com/dsikar/orchestration/issues/12) — Belkin, tremolo. The repeated-notes score, with the viola tremolo in the same bars.
+- [#13](https://github.com/dsikar/orchestration/issues/13) — Belkin, scales. The repeated-notes score, with one ascending and one descending scale in bars 9–10.
+- [#14](https://github.com/dsikar/orchestration/issues/14) — Belkin, arpeggiation. The repeated-notes score, with the viola rocking the same two chord tones.
+- [#15](https://github.com/dsikar/orchestration/issues/15) — Belkin, counterpoint. A second violin line in bars 5–8 of the heterophony score.
+- [#16](https://github.com/dsikar/orchestration/issues/16) — Belkin, soft tutti. Strings, flute, clarinet, bassoon, and horn, without literal doubling.
+- [#17](https://github.com/dsikar/orchestration/issues/17) — Belkin, accompaniment. Solo violin against clarinet and bassoon.
 
 ## Catalogue of titles
 
